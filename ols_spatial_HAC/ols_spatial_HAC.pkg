@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'ols_spatial_HAC': Standard Errors For Spatial Correlation (Spatial Correlation in Standard Errors) Use ols_spatial_HAC With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ols_spatial_HAC.ado
+f ols_spatial_HAC.sthlp
